@@ -1,1 +1,1 @@
-# NahamConCTF2024 (On-going)
+# NahamConCTF2024 (Currently editing)
