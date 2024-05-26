@@ -111,5 +111,8 @@ CertUtil: -hashfile command completed successfully.
 
 I observed that the MD5 hash value for the file "eicar" was 44d88612fea8a8f36de82e1278abb02f. Recognizing this hash as the potential flag, I utilized it for the challenge: `flag{44d88612fea8a8f36de82e1278abb02f}`
 
-
+<h3 align="center"><strong>QRRRRRRRR Challenge</strong></h3>
+<p align="center">
+  <img src="https://imgur.com/QwDhz7b.png" alt="QRRRRRRRR" width="900" height="400"/>
+</p>
 
