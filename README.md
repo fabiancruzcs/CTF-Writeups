@@ -48,7 +48,7 @@ During NahamCon2024, I completed the following challenges: </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#twine-challenge">Twine</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#uriel-challenge">Uriel</a> </br>  
   - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#web">Web</a> </br>
-    - [All About Robots]
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#all-about-robots-challenge">All About Robots</a> </br>  
 
 ## Warmups:
 
