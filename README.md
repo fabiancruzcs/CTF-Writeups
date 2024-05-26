@@ -100,6 +100,7 @@ Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I d
   <img src="https://imgur.com/cE7nvy8.png" alt="EICAR" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 To examine the MD5 value of the `eicar` file, I utilized the `certutil` command in the Windows terminal. Specifically, I used the following command: 
 ```sh
 certutil -hashfile eicar MD5. 
@@ -121,6 +122,7 @@ I observed that the MD5 hash value for the file "eicar" was 44d88612fea8a8f36de8
   <img src="https://imgur.com/QwDhz7b.png" alt="QRRRRRRRR" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 After downloading the QR code, I tried scanning it with my phone's regular scanner, but it didn't work. I then attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
 
 Python script used:
@@ -153,6 +155,7 @@ After scanning the code with the QRQR app, I finally captured the flag: `flag{a4
   <img src="https://imgur.com/xsskpq7.png" alt="Read The Rules" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 I started by reviewing the CTF event rules, where the flag format was specified as 'flag{[0-9a-f]{32}}', resembling an MD5 hash.
 
 <p align="center">Rules:</p>
@@ -174,10 +177,11 @@ While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick
   <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 This challenge was aimed at making participants aware of the event's ticketing system for assistance with CTF challenges or technical issues. 
 Found the flag within the ctf-open-ticket channel on the discord server. `flag{a98373a74abb8c5ebb8f5192e034a91c}`
 
-<p align="center">Ticketing System</p>
+<p align="center">Ticketing System:</p>
 <p align="center">
   <img src="https://imgur.com/TKMYoOn.png" alt="Ticketing System" width="500" height="400"/>
 </p>
@@ -187,11 +191,12 @@ Found the flag within the ctf-open-ticket channel on the discord server. `flag{a
   <img src="https://imgur.com/y1Z080l.png" alt="Read The Rules" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 At first glance, the text `F#S<YRXdP0Fd=,%J4c$Ph7XV(gF/*]%C4B<qlH+%3xGHo)` from the CTF prompt piqued my curiosity, leading me to search for an open-source tool online to decode it.
 
 I utilized `https://gchq.github.io/CyberChef`, which offers various decoding techniques. After experimenting with multiple methods, I discovered that the text was encoded in Base92.
 
-<p align="center">CyberChef Tool</p>
+<p align="center">CyberChef Tool:</p>
 <p align="center">
   <img src="https://imgur.com/J2I4pX2.png" alt="CyberChef" width="900" height="400"/>
 </p>
@@ -205,10 +210,11 @@ The flag found is: `flag{784454a9509196a33dba242c423c057a}`
   <img src="https://imgur.com/S1mB3Gs.png" alt="Twine" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 For this challenge, I received an image and an interesting CTF prompt, hinting that the flag might be hidden within the image. My initial instinct was to examine the image's metadata, so I used the open-source tool `ExifTool` by Phil Harvey to extract it. However, I couldn't find any meaningful traces of the flag in the metadata.
 Output from `command line ExifTool`:
 
-<p align="center">ExifTool cmd output</p>
+<p align="center">ExifTool cmd output:</p>
 <p align="center">
   <img src="https://imgur.com/jKsCtDi.png" alt="ExifTool-Output" width="500" height="400"/>
 </p>
@@ -256,6 +262,7 @@ Flag found: `flag{4ac54e3ba5f8f09049f3ad62403abb25}`
   <img src="https://imgur.com/hMCCWZg.png" alt="Uriel" width="900" height="300"/>
 </p>
 
+#### Thought Process:
 For this challenge, I received a large block of text, which was said to originate from a web address bar. Initially unsure of its meaning, I researched and discovered that the percentage (%) symbol in URLs acts as an escape character, indicating the start of a percent-encoded sequence. This sequence consists of the "%" sign followed by two hexadecimal digits, representing the ASCII code of a specific character. 
 
 URL encoding ensures compatibility and consistency across various web platforms and protocols by using the "%" sign as the escape character to standardize the representation of special characters.
