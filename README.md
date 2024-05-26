@@ -43,8 +43,8 @@ During NahamCon2024, I completed the following challenges: </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#read-the-rules-challenge">Read The Rules</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#technical-support-challenge">Technical Support</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#thats-not-my-base-challenge">That's Not My Base</a> </br>  
-    - [Twine]
-    - [Uriel]
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#twine-challenge">Twine</a> </br>  
+    - [Uriel] 
   - [Web]
     - [All About Robots]
 
@@ -245,7 +245,7 @@ I uploaded the image to `https://georgeom.net/StegOnline/upload` and analyzed it
 
 Flag found: `flag{4ac54e3ba5f8f09049f3ad62403abb25}`
 
-<p align="center">StegOnline tool string output:</p>
+<p align="center">StegOnline tool output:</p>
 <p align="center">
   <img src="https://imgur.com/YiCfc8p.png" alt="ExifTool-Output" width="600" height="500"/>
 </p>
