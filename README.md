@@ -146,3 +146,18 @@ During my research, I discovered that rectangular QR codes are known as Data Mat
 I struggled to find a way to scan it. I tried numerous scripts, imported various libraries, and searched extensively online, but couldn't find a solution. Eventually, I discovered a GitHub repository that mentioned using the QRQR app from the App Store for reading the code and suggested that the code could be resized.
 
 After scanning the code with the QRQR app, I finally captured the flag: `flag{a44557e380e3baae9c21c738664c6142}` 
+
+<h3 align="center"><strong>Read the Rules Challenge</strong></h3>
+<p align="center">
+  <img src="https://imgur.com/xsskpq7.png" alt="Read The Rules" width="900" height="400"/>
+</p>
+
+I started by reviewing the CTF event rules, where the flag format was specified as 'flag{[0-9a-f]{32}}', resembling an MD5 hash. I visited Naham's Discord server in search of clues. 
+
+While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick inspection of HTML source code. Intrigued, I followed the advice and inspected the HTML source code of the Rules page. To my surprise, the flag was embedded within the code. Flag found: `flag{90bc54705794a62015369fd8e86e557b}`
+
+<p align="center">HTML</p>
+<p align="center">
+  <img src="https://imgur.com/VXXBufa.png" alt="QR" width="900" height="400"/>
+</p>
+
