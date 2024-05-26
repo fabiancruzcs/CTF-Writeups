@@ -16,6 +16,7 @@ In this event, I participated as a solo player named <strong>cruzcs</strong>, re
 <br>
 
 <h2>Tools and Utilities Used:</h2>
+Ncat </br>
 <a href="https://www.ascii-code.com">ASCII Table</a> </br>
 <a href="https://georgeom.net/StegOnline/upload">StegOnline</a> </br>
 <a href="https://sourceforge.net/projects/steghide">StegHide</a> </br>
@@ -80,5 +81,7 @@ As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix),
 Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to heed its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
 </br>
 
-<img src="https://imgur.com/1Vq1BUF.png" alt=".txt" width="900" height="300"/>
-
+<p align="center">.txt file</p>
+<p align="center">
+  <img src="https://imgur.com/6wxGoxw.png" alt="copypasta" width="600" height="300"/>
+</p>
