@@ -14,9 +14,9 @@ In this event, I participated as a solo player under the alias <strong>cruzcs</s
 <p align="center">
 🎯 Placed in the top 34%.
 
-| Certification | Team Members |
-|--------------------|--------------------|
-| <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="300"/> | <img src="https://imgur.com/uLcLZIX.png" title="Members" alt="Members" width="900" height="300"/> |
+| Certification | 
+|--------------------|
+| <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="500"/> |
 
 <h2>Tools and Utilities Used:</h2>
 
