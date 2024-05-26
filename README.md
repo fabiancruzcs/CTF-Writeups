@@ -1,4 +1,4 @@
-# 🏴‍☠️ NahamCon CTF 2024
+# 🏴‍☠️ NahamCon CTF 2024 - NetRunners Team
 
 <img src="https://img.shields.io/badge/Disclaimer-%E2%9A%A0%EF%B8%8F-red?style=for-the-badge" alt="Disclaimer">
 Please be aware that this repository contains both the procedures for obtaining flags and the flags themselves. If you intend to solve the remaining CTF challenges during the extension period provided by the coordinators after the official event has ended, it's advisable to avoid reading further.
