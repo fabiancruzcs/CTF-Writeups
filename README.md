@@ -309,4 +309,4 @@ flag{8efeb66a719b75a4b7c634d885788dfc}
 
 This process revealed the flag. `flag{8efeb66a719b75a4b7c634d885788dfc}`
 
-## Warmups:
+## Web:
