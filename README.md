@@ -250,3 +250,8 @@ Flag found: `flag{4ac54e3ba5f8f09049f3ad62403abb25}`
   <img src="https://imgur.com/YiCfc8p.png" alt="ExifTool-Output" width="600" height="500"/>
 </p>
 
+<h3 align="center"><strong>Uriel Challenge</strong></h3>
+<p align="center">
+  <img src="https://imgur.com/S1mB3Gs.png" alt="Uriel" width="900" height="400"/>
+</p>
+
