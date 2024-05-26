@@ -13,7 +13,6 @@ In this event, I participated as a solo player named <strong>cruzcs</strong>, re
 | Certification | Team Members |
 |--------------------|--------------------|
 | <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="300"/> | <img src="https://imgur.com/uLcLZIX.png" title="Members" alt="Members" width="900" height="300"/> |
-<br>
 
 <h2>Tools and Utilities Used:</h2>
 
