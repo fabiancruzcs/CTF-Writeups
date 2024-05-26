@@ -1,6 +1,6 @@
 <h3 align="center"><strong>All About Robots Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/UAIVzZ5.png" alt="All About Robots" width="900" height="300"/>
+  <img src="https://imgur.com/UAIVzZ5.png" alt="All About Robots" width="900" height="400"/>
 </p>
 
 #### Thought Process:
