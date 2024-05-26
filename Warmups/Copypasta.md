@@ -34,7 +34,7 @@ distributions of GNU/Linux!
 
 As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix)," which was entirely new to me but proved to be quite enlightening. </br>
 
-Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to heed its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
+Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to follow its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
 </br>
 
 <p align="center">.txt file:</p>
