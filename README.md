@@ -93,7 +93,7 @@ Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I d
 
 <p align="center">.txt file:</p>
 <p align="center">
-  <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="300"/>
+  <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="400"/>
 </p>
 
 <h3 align="center"><strong>EICAR Challenge</strong></h3>
