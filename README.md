@@ -168,7 +168,7 @@ While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick
   <img src="https://imgur.com/VXXBufa.png" alt="QR" width="900" height="400"/>
 </p>
 
-<h3 align="center"><strong>Technical Support</strong></h3>
+<h3 align="center"><strong>Technical Support Challenge</strong></h3>
 <p align="center">
   <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="400"/>
 </p>
