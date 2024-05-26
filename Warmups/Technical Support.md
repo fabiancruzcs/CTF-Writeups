@@ -1,6 +1,6 @@
 <h3 align="center"><strong>Technical Support Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="300"/>
+  <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="400"/>
 </p>
 
 #### Thought Process:
