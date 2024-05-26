@@ -38,17 +38,17 @@ In this event, I participated as a solo player under the alias <strong>cruzcs</s
 During NahamCon2024, I completed the following challenges: </br>
 
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024">NahamCon CTF 2024</a> </br>
-  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#warmups">Warmups</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#copypasta-challenge">Copypasta</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#eicar-challenge">EICAR</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#read-the-rules-challenge">Read The Rules</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#technical-support-challenge">Technical Support</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#thats-not-my-base-challenge">That's Not My Base</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#twine-challenge">Twine</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#uriel-challenge">Uriel</a> </br>  
-  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#web">Web</a> </br>
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#all-about-robots-challenge">All About Robots</a> </br>  
+  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Warmups">Warmups</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Copypasta.md#copypasta-challenge">Copypasta</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/EICAR.md#eicar-challenge">EICAR</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/QRRRRRRRR.md#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Read%20the%20Rules.md#read-the-rules-challenge">Read The Rules</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Technical%20Support.md#technical-support-challenge">Technical Support</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/That's%20Not%20My%20Base.md#thats-not-my-base-challenge">That's Not My Base</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Twine.md#twine-challenge">Twine</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Uriel.md#uriel-challenge">Uriel</a> </br>  
+  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Web">Web</a> </br>
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Web/All%20About%20Robots.md#all-about-robots-challenge">All About Robots</a> </br>  
 
 ## Warmups:
 
