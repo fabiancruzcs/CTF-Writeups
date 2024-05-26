@@ -22,7 +22,7 @@ In this event, I participated as a solo player under the alias <strong>cruzcs</s
 | Used               | Description                                     |
 |--------------------|-------------------------------------------------|
 | certutil           | Windows tool for managing certificates and generating hashes. |
-| Ncat               | Network tool for data transfer.                 |
+| ncat               | Network tool for data transfer.                 |
 | [ASCII Table](https://www.ascii-code.com)    | ASCII character reference.                       |
 | [StegOnline](https://georgeom.net/StegOnline/upload) | Online steganography tool.                       |
 | [StegHide](https://sourceforge.net/projects/steghide)  | Command-line steganography tool.                 |
