@@ -252,6 +252,29 @@ Flag found: `flag{4ac54e3ba5f8f09049f3ad62403abb25}`
 
 <h3 align="center"><strong>Uriel Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/S1mB3Gs.png" alt="Uriel" width="900" height="400"/>
+  <img src="https://imgur.com/hMCCWZg.png" alt="Uriel" width="900" height="400"/>
 </p>
 
+For this challenge, I received a large block of text, which was said to originate from a web address bar. Initially unsure of its meaning, I researched and discovered that the percentage (%) symbol in URLs acts as an escape character, indicating the start of a percent-encoded sequence. This sequence consists of the "%" sign followed by two hexadecimal digits, representing the ASCII code of a specific character.
+
+URL encoding ensures compatibility and consistency across various web platforms and protocols by using the "%" sign as the escape character to standardize the representation of special characters.
+
+An escape character in computer science signals the start of a sequence with special meaning. When encountered, the following characters are interpreted differently than usual.
+
+Armed with this knowledge, I began decoding the ASCII characters using an ASCII table. I utilized a Python script with the urllib.parse library to decode the percent-encoded sequence.
+
+First, I ran the script to decode the initial sequence:
+
+```py
+python percent-encoded-sequence-decoderscript.py
+%66%6c%61%67%7b%38%65%66%65%62%36%36%61%37%31%39%62%37%35%61%34%62%37%63%36%33%34%64%38%38%35%37%38%38%64%66%63%7d
+```
+
+Following the challenge hint, "it happened twice," I decoded the resulting sequence again:
+
+```py
+python percent-encoded-sequence-decoderscript.py
+flag{8efeb66a719b75a4b7c634d885788dfc}
+```
+
+This process revealed the flag. `flag{8efeb66a719b75a4b7c634d885788dfc}`
