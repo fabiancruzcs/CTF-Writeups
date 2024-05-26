@@ -41,7 +41,7 @@ During NahamCon2024, I completed the following challenges: </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#eicar-challenge">EICAR</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#read-the-rules-challenge">Read The Rules</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#technical-support">Technical Support</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#technical-support-challenge">Technical Support</a> </br>  
     - [That's Not My Base]
     - [Twine]
     - [Uriel]
