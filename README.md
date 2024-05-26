@@ -40,7 +40,7 @@ During NahamCon2024, I completed the following challenges: </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#copypasta-challenge">Copypasta</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#eicar-challenge">EICAR</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
-    - [Read The Rules]
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#read-the-rules-challenge">Read The Rules</a> </br>  
     - [Technical Support]
     - [That's Not My Base]
     - [Twine]
