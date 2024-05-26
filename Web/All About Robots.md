@@ -4,7 +4,7 @@
 </p>
 
 #### Thought Process:
-Initially, I navigated to `http://challenge.nahamcon.com:30998` and found myself on a page with little content, prompting me to click on "learn more" leading me to another page.
+Initially, I navigated to `http://challenge.nahamcon.com:30998` and found myself on a page with little information, I clicked on "Learn More" which redirected me to a different page.
 
 <p align="center">challenge.naham.com:30998 main page:</p>
 <p align="center">
