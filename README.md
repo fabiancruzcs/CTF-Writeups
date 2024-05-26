@@ -174,7 +174,7 @@ While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick
 </p>
 
 This challenge was aimed at making participants aware of the event's ticketing system for assistance with CTF challenges or technical issues. 
-Found the flag within the ctf-open-ticket channel. `flag{a98373a74abb8c5ebb8f5192e034a91c}`
+Found the flag within the ctf-open-ticket channel on the discord server. `flag{a98373a74abb8c5ebb8f5192e034a91c}`
 
 <p align="center">Ticketing System</p>
 <p align="center">
