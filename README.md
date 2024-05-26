@@ -7,11 +7,11 @@ Please be aware that this repository contains both the procedures for obtaining 
 NahamCon is a virtual cybersecurity conference and Capture The Flag (CTF) competition organized by NahamSec. It features educational talks and workshops by industry experts, focusing on ethical hacking and information security. Participants can compete in various cybersecurity challenges, ranging from web exploitation to reverse engineering. The event fosters a global community for networking and knowledge sharing, and offers prizes and recognition for top performers. </br>
 
 <h2>Certificate of Completion</h2>
-In this event, I participated as a solo player named <strong>cruzcs</strong>, representing my team <strong>NetRunners</strong>. </br> 
+In this event, I participated as a solo player under the alias <strong>cruzcs</strong>, representing my team <strong>NetRunners</strong>. </br> 
 <br>
 
 <p align="center">
-🎯 Placed in the top 34% of teams.
+🎯 Placed in the top 34%.
 
 | Certification | Team Members |
 |--------------------|--------------------|
