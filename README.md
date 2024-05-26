@@ -268,7 +268,7 @@ For this challenge, I received a large blob of text, which was said to originate
 
 URL encoding ensures compatibility and consistency across various web platforms and protocols by using the "%" sign as the escape character to standardize the representation of special characters.
 
-Armed with this knowledge, I began decoding the ASCII characters using an ASCII table. I utilized a Python script with the urllib.parse library to decode the URL-encoded sequence.
+Armed with this knowledge, I began decoding the blob of text using an ASCII table. I utilized a Python script with the `urllib.parse` library to decode the URL-encoded sequence.
 
 First, I ran the script to decode the initial sequence:
 ```py
