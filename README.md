@@ -30,7 +30,7 @@ In this event, I participated as a solo player named <strong>cruzcs</strong>, re
 | pyzbar | Library to read barcodes and QR codes.                  |
 
 ## CTF Contents
-During NahamCon2024, I completed the following: </br>
+During NahamCon2024, I completed the following challenges: </br>
 
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024">NahamCon CTF 2024</a> </br>
   - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#warmups">Warmups</a> </br> 
