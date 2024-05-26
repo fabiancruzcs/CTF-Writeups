@@ -1,6 +1,6 @@
 <h3 align="center"><strong>Copypasta Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="300"/>
+  <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
 </p>
 
 #### Thought Process:
