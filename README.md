@@ -53,7 +53,7 @@ During NahamCon2024, I completed the following challenges: </br>
 
 <h3 align="center"><strong>Copypasta Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
+  <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="300"/>
 </p>
 
 #### Thought Process:
@@ -90,14 +90,14 @@ As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix),
 Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to heed its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
 </br>
 
-<p align="center">.txt file</p>
+<p align="center">.txt file:</p>
 <p align="center">
   <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="300"/>
 </p>
 
 <h3 align="center"><strong>EICAR Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/cE7nvy8.png" alt="EICAR" width="900" height="400"/>
+  <img src="https://imgur.com/cE7nvy8.png" alt="EICAR" width="900" height="300"/>
 </p>
 
 To examine the MD5 value of the `eicar` file, I utilized the `certutil` command in the Windows terminal. Specifically, I used the following command: 
@@ -118,7 +118,7 @@ I observed that the MD5 hash value for the file "eicar" was 44d88612fea8a8f36de8
 
 <h3 align="center"><strong>QRRRRRRRR Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/QwDhz7b.png" alt="QRRRRRRRR" width="900" height="400"/>
+  <img src="https://imgur.com/QwDhz7b.png" alt="QRRRRRRRR" width="900" height="300"/>
 </p>
 
 After downloading the QR code, I tried scanning it with my phone's regular scanner, but it didn't work. I then attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
@@ -139,7 +139,7 @@ for barcode in result:
 
 During my research, I discovered that rectangular QR codes are known as Data Matrix codes and require different handling for decoding. They are also referred to as `rMQR (Rectangular Micro QR Code)`.
 
-<p align="center">rMQR</p>
+<p align="center">rMQR:</p>
 <p align="center">
   <img src="https://imgur.com/pThspuD.png" alt="QR" width="600" height="100"/>
 </p>
@@ -150,12 +150,12 @@ After scanning the code with the QRQR app, I finally captured the flag: `flag{a4
 
 <h3 align="center"><strong>Read the Rules Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/xsskpq7.png" alt="Read The Rules" width="900" height="400"/>
+  <img src="https://imgur.com/xsskpq7.png" alt="Read The Rules" width="900" height="300"/>
 </p>
 
 I started by reviewing the CTF event rules, where the flag format was specified as 'flag{[0-9a-f]{32}}', resembling an MD5 hash.
 
-<p align="center">Rules</p>
+<p align="center">Rules:</p>
 <p align="center">
   <img src="https://imgur.com/KoBuCzb.png" alt="Read The Rules" width="600" height="200"/>
 </p>
@@ -164,14 +164,14 @@ I visited Naham's Discord server in search of clues.
 
 While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick inspection of HTML source code. Intrigued, I followed the advice and inspected the HTML source code of the Rules page. To my surprise, the flag was embedded within the code. Flag found: `flag{90bc54705794a62015369fd8e86e557b}`
 
-<p align="center">HTML</p>
+<p align="center">HTML:</p>
 <p align="center">
   <img src="https://imgur.com/VXXBufa.png" alt="QR" width="900" height="400"/>
 </p>
 
 <h3 align="center"><strong>Technical Support Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="400"/>
+  <img src="https://imgur.com/9hSaRrD.png" alt="Technical Support" width="900" height="300"/>
 </p>
 
 This challenge was aimed at making participants aware of the event's ticketing system for assistance with CTF challenges or technical issues. 
@@ -184,7 +184,7 @@ Found the flag within the ctf-open-ticket channel on the discord server. `flag{a
 
 <h3 align="center"><strong>That's Not My Base Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/y1Z080l.png" alt="Read The Rules" width="900" height="400"/>
+  <img src="https://imgur.com/y1Z080l.png" alt="Read The Rules" width="900" height="300"/>
 </p>
 
 At first glance, the text `F#S<YRXdP0Fd=,%J4c$Ph7XV(gF/*]%C4B<qlH+%3xGHo)` from the CTF prompt piqued my curiosity, leading me to search for an open-source tool online to decode it.
@@ -202,7 +202,7 @@ The flag found is: `flag{784454a9509196a33dba242c423c057a}`
 
 <h3 align="center"><strong>Twine Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/S1mB3Gs.png" alt="Twine" width="900" height="400"/>
+  <img src="https://imgur.com/S1mB3Gs.png" alt="Twine" width="900" height="300"/>
 </p>
 
 For this challenge, I received an image and an interesting CTF prompt, hinting that the flag might be hidden within the image. My initial instinct was to examine the image's metadata, so I used the open-source tool `ExifTool` by Phil Harvey to extract it. However, I couldn't find any meaningful traces of the flag in the metadata.
@@ -253,7 +253,7 @@ Flag found: `flag{4ac54e3ba5f8f09049f3ad62403abb25}`
 
 <h3 align="center"><strong>Uriel Challenge</strong></h3>
 <p align="center">
-  <img src="https://imgur.com/hMCCWZg.png" alt="Uriel" width="900" height="400"/>
+  <img src="https://imgur.com/hMCCWZg.png" alt="Uriel" width="900" height="300"/>
 </p>
 
 For this challenge, I received a large block of text, which was said to originate from a web address bar. Initially unsure of its meaning, I researched and discovered that the percentage (%) symbol in URLs acts as an escape character, indicating the start of a percent-encoded sequence. This sequence consists of the "%" sign followed by two hexadecimal digits, representing the ASCII code of a specific character. 
