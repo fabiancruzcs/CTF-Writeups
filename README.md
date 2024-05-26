@@ -107,9 +107,7 @@ To examine the MD5 value of the `eicar` file, I utilized the `certutil` command 
 certutil -hashfile eicar MD5. 
 ```
 
-</br>
 Upon execution, the terminal provided the following output:
-
 ```sh
 MD5 hash of eicar:
 44d88612fea8a8f36de82e1278abb02f
