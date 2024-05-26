@@ -25,7 +25,7 @@ In this event, I participated as a solo player named <strong>cruzcs</strong>, re
 | [StegHide](https://sourceforge.net/projects/steghide)  | Command-line steganography tool.                 |
 | [Exif.tools](https://exif.tools)            | EXIF metadata viewer.                            |
 | [CyberChef](https://gchq.github.io/CyberChef)        | Data encoding/decoding tool.                     |
-| [GitHub repo rMQR](https://github.com/OUDON/rmqrcode-python) | Python QR code library.                      |
+| [GitHub repo rMQR](https://github.com/OUDON/rmqrcode-python) | Python rMQR code library.                      |
 
 
 ## CTF Contents
@@ -33,8 +33,8 @@ During NahamCon2024, I completed the following: </br>
 
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/edit/main/README.md#%EF%B8%8F-nahamcon-ctf-2024">NahamCon CTF 2024</a> </br>
   - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/edit/main/README.md#warmups">Warmups</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/edit/main/README.md#copypasta">Copypasta</a> </br> 
-    - [EICAR]
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/edit/main/README.md#copypasta-challenge">Copypasta</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/edit/main/README.md#eicar-challenge">EICAR</a> </br> 
     - [QRRRRRRRR]
     - [Read The Rules]
     - [Technical Support]
@@ -46,7 +46,7 @@ During NahamCon2024, I completed the following: </br>
 
 ## Warmups:
 
-<h3 align="center"><strong>Copypasta</strong></h3>
+<h3 align="center"><strong>Copypasta Challenge</strong></h3>
 <p align="center">
   <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
 </p>
@@ -87,5 +87,10 @@ Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I d
 
 <p align="center">.txt file</p>
 <p align="center">
-  <img src="https://imgur.com/6wxGoxw.png" alt="copypasta" width="600" height="300"/>
+  <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="300"/>
+</p>
+
+<h3 align="center"><strong>EICAR Challenge</strong></h3>
+<p align="center">
+  <img src="https://imgur.com/cE7nvy8.png" alt="EICAR" width="900" height="400"/>
 </p>
