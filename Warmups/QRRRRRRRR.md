@@ -28,5 +28,7 @@ During my research, I discovered that rectangular QR codes are known as Data Mat
 </p>
 
 I struggled to find a way to scan it. I tried numerous scripts, imported various libraries, and searched extensively online, but couldn't find a solution. Eventually, I discovered a GitHub repository that mentioned using the QRQR app from the App Store for reading the code and suggested that the code could be resized.
-
+```
+https://github.com/OUDON/rmqrcode-python
+```
 After scanning the code with the QRQR app, I finally captured the flag: `flag{a44557e380e3baae9c21c738664c6142}` 
