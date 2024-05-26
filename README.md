@@ -16,13 +16,17 @@ In this event, I participated as a solo player named <strong>cruzcs</strong>, re
 <br>
 
 <h2>Tools and Utilities Used:</h2>
-Ncat </br>
-<a href="https://www.ascii-code.com">ASCII Table</a> </br>
-<a href="https://georgeom.net/StegOnline/upload">StegOnline</a> </br>
-<a href="https://sourceforge.net/projects/steghide">StegHide</a> </br>
-<a href="https://exif.tools">Exif.tools</a> </br>
-<a href="https://gchq.github.io/CyberChef">CyberChef</a> </br>
-<a href="https://github.com/OUDON/rmqrcode-python">GitHub repo rMQR</a> </br>
+
+| Used               | Description                                     |
+|--------------------|-------------------------------------------------|
+| Ncat               | Network tool for data transfer.                 |
+| [ASCII Table](https://www.ascii-code.com)    | ASCII character reference.                       |
+| [StegOnline](https://georgeom.net/StegOnline/upload) | Online steganography tool.                       |
+| [StegHide](https://sourceforge.net/projects/steghide)  | Command-line steganography tool.                 |
+| [Exif.tools](https://exif.tools)            | EXIF metadata viewer.                            |
+| [CyberChef](https://gchq.github.io/CyberChef)        | Data encoding/decoding tool.                     |
+| [GitHub repo rMQR](https://github.com/OUDON/rmqrcode-python) | Python QR code library.                      |
+
 
 ## CTF Contents
 During NahamCon2024, I completed the following: </br>
