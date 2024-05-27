@@ -4,7 +4,7 @@
 </p>
 
 #### Thought Process:
-After downloading the QR code, I tried scanning it with my phone's regular scanner, but it didn't work. I then attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
+After downloading the QR code, I tried scanning it with my phone's regular scanner to rule out simpler possibilities. When that didn't work, I attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
 
 Python script used:
 ```py
