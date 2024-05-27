@@ -1,17 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
 <h3 align="center"><strong>Copypasta Challenge</strong></h3>
 <p align="center">
   <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
 </p>
 
-#### Thought Process:
-I began by establishing a connection to the server through the Windows terminal using the command: </br>
-```sh
-ncat.exe challenge.nahamcon.com 31476
-```
+<h4>Thought Process:</h4>
+<p>I began by establishing a connection to the server through the Windows terminal using the command:</p>
 
-and got the following output: </br>
-```sh
-I'd just like to interject for a moment. What you're referring to as Linux, is
+<pre><code>ncat.exe challenge.nahamcon.com 31476</code></pre>
+
+<p>and got the following output:</p>
+
+<pre><code>I'd just like to interject for a moment. What you're referring to as Linux, is
 in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux.
 Linux is not an operating system unto itself, but rather another free component
 of a fully functioning GNU system made useful by the GNU corelibs, shell
@@ -29,15 +35,16 @@ is an essential part of an operating system, but useless by itself; it can only
 function in the context of a complete operating system. Linux is normally used
 in combination with the GNU operating system: the whole system is basically GNU
 with Linux added, or GNU/Linux. All the so-called Linux distributions are really
-distributions of GNU/Linux!
-```
+distributions of GNU/Linux!</code></pre>
 
-As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix)," which was entirely new to me but proved to be quite enlightening. </br>
+<p>As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix)," which was entirely new to me but proved to be quite enlightening.</p>
 
-Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to follow its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
-</br>
+<p>Feeling intrigued by the suggestive title of the CTF challenge, "copypasta," I decided to follow its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: <code>flag{1f68e019b29650f6e8ea15a7808f76fd}</code>.</p>
 
-<p align="center">.txt file:</p>
+<p align="center"><strong>.txt file:</strong></p>
 <p align="center">
   <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="400"/>
 </p>
+
+</body>
+</html>
