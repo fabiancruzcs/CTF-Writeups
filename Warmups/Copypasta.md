@@ -2,16 +2,14 @@
 <p align="center">
   <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
 </p>
+<h3>Solution:</h3>
 
-<h3>Thought Process:</h3> 
-
-To begin, I established a connection to the server via the Windows terminal using the command:
-
+To begin, establish a connection to the server via the Windows terminal using the command:
 ```sh
 ncat.exe challenge.nahamcon.com 31476
 ```
 
-The server responded with a lengthy message explaining the distinction between Linux and GNU/Linux:
+The server responds with a lengthy message explaining the distinction between Linux and GNU/Linux:
 
 ```sh
 I'd just like to interject for a moment. What you're referring to as Linux, is
@@ -35,17 +33,18 @@ with Linux added, or GNU/Linux. All the so-called Linux distributions are really
 distributions of GNU/Linux!
 ```
 
-As I read through the text, the term "GNU (GNU's Not Unix)" caught my attention, providing valuable insight into the system architecture.
-
-Intrigued by the challenge's suggestive title, "copypaste," I decided to heed its advice. I copied the entire text and pasted it into a .txt file, suspecting that the flag might be concealed within.
+Copy the entire output from the terminal and paste it into a text document. The flag is hidden within the text.
 
 <p align="center">.txt file:</p>
 <p align="center">
   <img src="https://imgur.com/bGSm6jF.png" alt="text file" width="600" height="400"/>
 </p>
 
-Sure enough, my intuition proved correct, and I successfully uncovered the flag: 
+The flag is:
+```
+flag{1f68e019b29650f6e8ea15a7808f76fd}
+```
 
-```
-flag{1f68e019b29650f6e8ea15a7808f76fd}.
-```
+
+
+
