@@ -4,7 +4,8 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
 
 ### Contents
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024---netrunners-team">NahamCon CTF 2024</a> </br>
-  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Warmups">Warmups Challenges</a> </br> 
+
+  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Warmups">Warmups</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Copypasta.md#copypasta-challenge">Copypasta</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/EICAR.md#eicar-challenge">EICAR</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/QRRRRRRRR.md#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
@@ -12,8 +13,8 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Technical%20Support.md#technical-support-challenge">Technical Support</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/That's%20Not%20My%20Base.md#thats-not-my-base-challenge">That's Not My Base</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Twine.md#twine-challenge">Twine</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Uriel.md#uriel-challenge">Uriel</a> </br>  
-  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Web">Web Challenges</a> </br>
+    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Uriel.md#uriel-challenge">Uriel</a> </br>
+  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Web">Web</a> </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Web/All%20About%20Robots.md#all-about-robots-challenge">All About Robots</a> </br>
 
 
