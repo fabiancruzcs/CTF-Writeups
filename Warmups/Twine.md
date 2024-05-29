@@ -4,7 +4,7 @@
 </p>
 
 ### Thought Process:
-For this challenge, I received an image and a CTF prompt hinting that the flag might be hidden within. My initial instinct was to examine the file's metadata using the ExifTool. However, I couldn't find any meaningful traces of the flag in the metadata.
+For this challenge, I received an image and a CTF prompt hinting that the flag might be hidden within. My initial instinct was to examine the file's metadata using the ExifTool. However, I couldn't find any meaningful traces of the flag.
 
 <p align="center">ExifTool cmd output:</p>
 <p align="center">
@@ -13,8 +13,9 @@ For this challenge, I received an image and a CTF prompt hinting that the flag m
 
 Next, I considered the possibility of steganography, where data is concealed within images. I used the tool steghide to investigate the image for hidden messages.
 
-Integrating steghide into my system, I tried to decrypt the hidden content using various passwords, but without success. The command for extracting the hidden message was:
+Integrating steghide into my system, I tried to decrypt the hidden content using various passwords, but without success. 
 
+The command I used for extracting the hidden message was:
 ```sh
 steghide extract -sf twine.jpg
 ```
@@ -46,7 +47,7 @@ I uploaded the image to StegOnline and analyzed it using the strings category. F
 
 <p align="center">StegOnline tool output:</p>
 <p align="center">
-  <img src="https://imgur.com/YiCfc8p.png" alt="ExifTool-Output" width="600" height="500"/>
+  <img src="https://imgur.com/Gbe2nwl.png" alt="ExifTool-Output" width="600" height="500"/>
 </p>
 
 Flag found: 
