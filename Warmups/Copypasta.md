@@ -41,7 +41,7 @@ Intrigued by the challenge's suggestive title, "copypaste," I decided to heed it
 
 <p align="center">.txt file:</p>
 <p align="center">
-  <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="400"/>
+  <img src="https://imgur.com/bGSm6jF.png" alt="text file" width="600" height="400"/>
 </p>
 
 Sure enough, my intuition proved correct, and I successfully uncovered the flag: 
