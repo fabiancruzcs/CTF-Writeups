@@ -17,8 +17,9 @@ Integrating steghide into my system, I tried to decrypt the hidden content using
 
 ```sh
 steghide extract -sf twine.jpg
-Seeking assistance, I reached out to the NahamCon Discord community and opened a ticket for help.
 ```
+
+Seeking assistance, I reached out to the NahamCon Discord community and opened a ticket for help.
 
 While waiting for a response, I discovered a method to run multiple steghide commands simultaneously using the -p parameter. I tested various passwords like "twine," "string," and "thread."
 
