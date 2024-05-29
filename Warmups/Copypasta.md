@@ -1,15 +1,18 @@
-<h3 align="center"><strong>Copypasta Challenge</strong></h3>
+<h2 align="center"><strong>Copypasta Challenge</strong></h2>
 <p align="center">
   <img src="https://imgur.com/TKF21HE.png" alt="copypasta" width="900" height="400"/>
 </p>
 
-#### Thought Process:
-I began by establishing a connection to the server through the Windows terminal using the command: </br>
+<h3>Thought Process:</h3> 
+
+To begin, I established a connection to the server via the Windows terminal using the command:
+
 ```sh
 ncat.exe challenge.nahamcon.com 31476
 ```
 
-and got the following output: </br>
+The server responded with a lengthy message explaining the distinction between Linux and GNU/Linux:
+
 ```sh
 I'd just like to interject for a moment. What you're referring to as Linux, is
 in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux.
@@ -32,12 +35,19 @@ with Linux added, or GNU/Linux. All the so-called Linux distributions are really
 distributions of GNU/Linux!
 ```
 
-As I navigated through the text, I stumbled upon the term "GNU (GNU's Not Unix)," which was entirely new to me but proved to be quite enlightening. </br>
+As I read through the text, the term "GNU (GNU's Not Unix)" caught my attention, providing valuable insight into the system architecture.
 
-Feeling intrigued by the suggestive title of the CTF challenge, "copypaste," I decided to follow its implied advice. I copied all the text and pasted it into a .txt file, anticipating that the flag might be hidden within. Sure enough, my intuition proved correct, and I successfully uncovered the flag: `flag{1f68e019b29650f6e8ea15a7808f76fd}`.
-</br>
+Intrigued by the challenge's suggestive title, "copypaste," I decided to heed its advice. I copied the entire text and pasted it into a .txt file, suspecting that the flag might be concealed within.
 
 <p align="center">.txt file:</p>
 <p align="center">
   <img src="https://imgur.com/6wxGoxw.png" alt="text file" width="600" height="400"/>
 </p>
+
+Sure enough, my intuition proved correct, and I successfully uncovered the flag: 
+
+```
+flag{1f68e019b29650f6e8ea15a7808f76fd}.
+```
+
+This method led me to the solution, emphasizing the need for strategic thinking and attention to detail in CTF challenges.
