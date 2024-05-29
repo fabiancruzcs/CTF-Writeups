@@ -1,9 +1,9 @@
-<h3 align="center"><strong>QRRRRRRRR Challenge</strong></h3>
+<h2 align="center"><strong>QRRRRRRRR Challenge</strong></h2>
 <p align="center">
   <img src="https://imgur.com/QwDhz7b.png" alt="QRRRRRRRR" width="900" height="300"/>
 </p>
 
-Thought Process:
+<h3>Thought Process:</h3>
 
 After downloading the QR code, I initially tried scanning it with my phone's regular scanner to rule out simpler possibilities. When that didn't work, I attempted to scan it using Python scripts and terminal tools with the pillow and pyzbar libraries, but these efforts also failed.
 
