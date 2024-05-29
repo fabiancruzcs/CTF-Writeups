@@ -49,5 +49,3 @@ Sure enough, my intuition proved correct, and I successfully uncovered the flag:
 ```
 flag{1f68e019b29650f6e8ea15a7808f76fd}.
 ```
-
-This method led me to the solution, emphasizing the need for strategic thinking and attention to detail in CTF challenges.
