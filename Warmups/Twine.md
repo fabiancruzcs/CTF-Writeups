@@ -4,16 +4,16 @@
 </p>
 
 ### Thought Process:
-For this challenge, I received an image and a CTF prompt hinting that the flag might be hidden within the image. My initial instinct was to examine the image's metadata using ExifTool by Phil Harvey, an open-source tool. However, I couldn't find any meaningful traces of the flag in the metadata.
+For this challenge, I received an image and a CTF prompt hinting that the flag might be hidden within. My initial instinct was to examine the file's metadata using the ExifTool. However, I couldn't find any meaningful traces of the flag in the metadata.
 
 <p align="center">ExifTool cmd output:</p>
 <p align="center">
   <img src="https://imgur.com/jKsCtDi.png" alt="ExifTool-Output" width="500" height="400"/>
 </p>
 
-Next, I considered the possibility of steganography, where data is concealed within images. I used the open-source tool steghide to investigate the image for hidden messages.
+Next, I considered the possibility of steganography, where data is concealed within images. I used the tool steghide to investigate the image for hidden messages.
 
-Integrating steghide into my system, I tried to decrypt the hidden content using various passwords, but without success. The command for extracting the hidden message is:
+Integrating steghide into my system, I tried to decrypt the hidden content using various passwords, but without success. The command for extracting the hidden message was:
 
 ```sh
 steghide extract -sf twine.jpg
@@ -33,7 +33,7 @@ steghide extract -sf twine.jpg -p thread
 
 However, I later received a hint from the Discord admins suggesting that steganography might not be necessary for this challenge. They asked me, "Is there another name for what is shown in the picture?"
 
-This hint redirected my focus to the image's original filename, phpxpoEjO. I revisited the image's metadata and pondered its implications, but still made no progress.
+This hint redirected my focus to the image's original filename, "phpxpoEjO". I revisited the image's metadata and pondered its implications, but still made no progress.
 
 <p align="center">ExifTool online tool:</p>
 <p align="center">
