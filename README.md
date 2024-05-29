@@ -1,4 +1,4 @@
-# 🏴‍☠️ NahamCon CTF 2024 - NetRunners Team
+# 🏴‍☠️ NahamCon CTF 2024 
 
 <h2>Event Description</h2>
 NahamCon is a virtual cybersecurity conference and Capture The Flag (CTF) competition organized by NahamSec. It features educational talks and workshops by industry experts, focusing on ethical hacking and information security. Participants can compete in various cybersecurity challenges, ranging from web exploitation to reverse engineering. The event fosters a global community for networking and knowledge sharing, and offers prizes and recognition for top performers. </br>
@@ -7,12 +7,13 @@ NahamCon is a virtual cybersecurity conference and Capture The Flag (CTF) compet
 In this event, I participated as a solo player under the alias <strong>cruzcs</strong>, representing my team <strong>NetRunners</strong>. </br> 
 <br>
 
-<p align="center">
-🎯 Placed in the top 34%.
+<div align="center">
+  <p>🎯 Placed in the top 34%.</p>
 
-| Certification | 
-|--------------------|
-| <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="500"/> |
+  | Certification | 
+  |--------------------|
+  | <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="500"/> |
+</div>
 
 <h2>Tools and Utilities Used:</h2>
 
