@@ -1,9 +1,9 @@
-<h3 align="center"><strong>Uriel Challenge</strong></h3>
+<h2 align="center"><strong>Uriel Challenge</strong></h2>
 <p align="center">
   <img src="https://imgur.com/hMCCWZg.png" alt="Uriel" width="900" height="300"/>
 </p>
 
-#### Thought Process:
+### Thought Process:
 For this challenge, I received a large blob of text, which was said to originate from a web address bar. Initially unsure of its meaning, I researched and discovered that the percentage (%) symbol in URLs acts as an escape character, indicating the start of a percent-encoded sequence. This sequence consists of the "%" sign followed by two hexadecimal digits, representing the ASCII code of a specific character. 
 
 URL encoding ensures compatibility and consistency across various web platforms and protocols by using the "%" sign as the escape character to standardize the representation of special characters.
@@ -48,4 +48,7 @@ python URLdecoder-script.py
 flag{8efeb66a719b75a4b7c634d885788dfc}
 ```
 
-This process revealed the flag. `flag{8efeb66a719b75a4b7c634d885788dfc}`
+This process revealed the flag:
+```
+flag{8efeb66a719b75a4b7c634d885788dfc}
+```
