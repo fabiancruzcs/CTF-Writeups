@@ -43,8 +43,3 @@ During this event, I took part as an individual participant representing my team
   |--------------------|
   | <img src="https://imgur.com/1Vq1BUF.png" title="Certification" alt="Certification" width="900" height="500"/> |
 </div>
-
-  | Participation | 
-  |--------------------|
-  | <img src="https://imgur.com/KA6jKpn.png" title="Certification" alt="Certification" width="900" height="500"/> |
-</div>
