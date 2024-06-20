@@ -45,7 +45,7 @@ Remembering there was another page before the one I was currently on `http://cha
 
 I repeated the procedure by appending "/robots.txt" to its end.
 
-This time, my effort bore fruit as the "Disallow" parameter contained a significant clue:
+This time, the "Disallow" parameter contained a significant clue:
 
 <p align="center">Disallow parameter:</p>
 <p align="center">
