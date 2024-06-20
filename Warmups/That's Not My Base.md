@@ -6,7 +6,7 @@
 ### Thought Process:
 At first glance, the text from the CTF prompt caught my attention, prompting me to search for an open-source tool online to decode it.
 
-I used `CyberChef`, which provides various decoding techniques. After trying several methods, I discovered that the text was encoded in Base92.
+I used `CyberChef,` which provides various decoding techniques. After trying several methods, I discovered that the text was encoded in Base92.
 
 <p align="center">CyberChef Tool:</p>
 <p align="center">
