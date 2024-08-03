@@ -5,7 +5,7 @@
 
 <h3>Thought Process:</h3>
 
-After downloading the QR code, I initially tried scanning it with my phone's regular scanner to rule out that possibility. When that didn't work, I attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
+After downloading the QR code, I tried scanning it with my phone's regular scanner to check if it was possible. When that didn't work, I attempted to scan it using Python scripts and terminal tools with the `pillow` and `pyzbar` libraries, but these efforts also failed.
 
 Python script used:
 
@@ -30,14 +30,14 @@ During my research, I discovered that rectangular QR codes are known as Data Mat
   <img src="https://imgur.com/pThspuD.png" alt="QR" width="600" height="100"/>
 </p>
 
-I struggled to find a way to scan it. I tried numerous scripts, imported various libraries, and searched extensively online, but I couldn't find a solution. Eventually, I discovered a GitHub repository that mentioned using the QRQR app from the App Store for reading the code and suggested that it could be resized.
+I struggled to find a way to scan it. I searched extensively online, but I couldn't find a solution. Eventually, I discovered a GitHub repository that mentioned using the `QRQR app` from the App Store for reading the code.
 
 GitHub repository:
 ```
 https://github.com/OUDON/rmqrcode-python
 ```
 
-After scanning the code with the QRQR app, I got the flag: 
+I scanned the code using the QRQR app and got the flag: 
 
 ```
 flag{a44557e380e3baae9c21c738664c6142}
