@@ -2,8 +2,10 @@
 
 This repository contains my solutions to the challenges from the NahamCon CTF 2024. Each challenge is documented with the steps I took to solve it, including code snippets and screenshots where applicable.
 
+<p>
 <p align="left">
   <img src="https://imgur.com/99YgADi.png" alt="sillymeme" width="400" height="300"/> 
+</p>
 
 ### Contents
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024---netrunners-team">NahamCon CTF 2024</a> </br>
