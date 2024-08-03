@@ -11,9 +11,7 @@ I started by reviewing the CTF event rules, where the flag format was specified 
   <img src="https://imgur.com/KoBuCzb.png" alt="Read The Rules" width="600" height="200"/>
 </p>
 
-To gather more information, I visited Naham's Discord server and engaged with the community.
-
-While there, a user casually mentioned that pressing 'Ctrl + U' allows for quick inspection of HTML source code. Intrigued, I followed the advice and inspected the HTML source code of the Rules page. To my surprise, the flag was embedded within the code. 
+While there, I did a quick inspection of the HTML source code pressing 'Ctrl + U'.
 
 <p align="center">HTML source code:</p>
 <p align="center">
