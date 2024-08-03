@@ -4,7 +4,7 @@
 </p>
 
 ### Thought Process:
-At first glance, the text from the CTF prompt caught my attention, prompting me to search for an open-source tool online to decode it.
+The text from the CTF prompt encourages you to search for an open-source tool to find the right base.
 
 I used `CyberChef`, which provides various decoding techniques. After trying several methods, I discovered that the text was encoded in Base92.
 
@@ -12,8 +12,6 @@ I used `CyberChef`, which provides various decoding techniques. After trying sev
 <p align="center">
   <img src="https://imgur.com/9rAiqRU.png" alt="CyberChef" width="900" height="400"/>
 </p>
-
-The challenge title, "That's Not My Base," hinted that the encoded text used an unusual "base," which helped steer me in the right direction.
 
 Flag found: 
 ```
