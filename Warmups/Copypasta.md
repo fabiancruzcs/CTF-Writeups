@@ -45,6 +45,9 @@ The flag is:
 flag{1f68e019b29650f6e8ea15a7808f76fd}
 ```
 
-
+<p>
+<p align="center">
+  <img src="https://imgur.com/7d64hQg.png" alt="text file" width="600" height="400"/>
+</p>
 
 
