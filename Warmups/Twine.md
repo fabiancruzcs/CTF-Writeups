@@ -11,7 +11,7 @@ For this challenge, I received an image and a CTF prompt hinting that the flag m
   <img src="https://imgur.com/jKsCtDi.png" alt="ExifTool-Output" width="500" height="400"/>
 </p>
 
-Next, I considered the possibility of steganography, where data is concealed within images. I used the tool steghide to investigate the image for hidden messages.
+Next, I considered the possibility of steganography, where data is concealed within images. I used the tool `steghide` to investigate the image for hidden messages.
 
 Integrating steghide into my system, I tried to decrypt the hidden content using various passwords, but without success. 
 
