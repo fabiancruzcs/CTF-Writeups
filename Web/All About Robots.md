@@ -4,7 +4,7 @@
 </p>
 
 ### Thought Process:
-Initially, I navigated to `http://challenge.nahamcon.com:30998` and found myself on a page with little information, I clicked on "Learn More" which redirected me to a different page.
+I navigated to `http://challenge.nahamcon.com:30998` and found myself on a page with little information, I clicked on "Learn More" which redirected me to a different page.
 
 <p align="center">challenge.naham.com:30998 main page:</p>
 <p align="center">
@@ -27,14 +27,14 @@ While reading through it, I came across a reference to appending `/robots.txt` t
   <img src="https://imgur.com/2wPvZ0i.png" alt="reference" width="900" height="400"/>
 </p>
 
-This piqued my curiosity, prompting me to experiment. I appended "/robots.txt" to "The Web Robots Pages" URL.
+I appended "/robots.txt" to "The Web Robots Pages" URL.
 
 Appending example:
 ```
 https://www.robotstxt.org/robots.txt
 ``` 
 
-But only found a generic user-agent "*" and an empty disallow parameter.
+I found a generic user-agent "*" and an empty disallow parameter.
 
 <p align="center">The Web Robots Pages:</p>
 <p align="center">
