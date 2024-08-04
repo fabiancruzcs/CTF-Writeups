@@ -5,7 +5,7 @@
 
 <h3>Thought Process:</h3>
 
-To examine the MD5 value of the eicar file, I used the certutil command in the Windows terminal:
+To examine the MD5 value of the eicar file, I used the `certutil` command in the Windows terminal:
 
 ```sh
 certutil -hashfile eicar MD5
@@ -19,7 +19,9 @@ MD5 hash of eicar:
 CertUtil: -hashfile command completed successfully.
 ```
 
-I observed that the MD5 hash value for the file "eicar" was 44d88612fea8a8f36de82e1278abb02f. Recognizing this hash as the potential flag, I used it for the challenge: 
+The MD5 hash value for the file "eicar" was 44d88612fea8a8f36de82e1278abb02f.
+
+Flag for the challenge: 
 
 ```
 flag{44d88612fea8a8f36de82e1278abb02f}
