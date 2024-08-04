@@ -3,7 +3,7 @@
 This repository contains my solutions to the challenges from the NahamCon CTF 2024. Each challenge is documented with the steps I took to solve it, including code snippets and screenshots where applicable.
 
 ### Contents
-- <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024---netrunners-team">NahamCon CTF 2024</a> </br>
+- <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/README.md#nahamcon-ctf-2024">NahamCon CTF 2024</a> </br>
 
   - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024/Warmups">Warmups</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Copypasta.md#copypasta-challenge">Copypasta</a> </br> 
