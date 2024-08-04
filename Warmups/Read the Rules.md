@@ -13,7 +13,7 @@ I started by reviewing the CTF event rules, where the flag format was specified 
 
 While there, I did a quick inspection of the HTML source code.
 
-<p align="center">HTML source code:</p>
+<p align="center">source code:</p>
 <p align="center">
   <img src="https://imgur.com/sjd9RIm.png" alt="QR" width="900" height="400"/>
 </p>
