@@ -7,13 +7,13 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
 
   - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024/Warmups">Warmups</a> </br> 
     - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Copypasta.md">Copypasta</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/EICAR.md#eicar-challenge">EICAR</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/QRRRRRRRR.md#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Read%20the%20Rules.md#read-the-rules-challenge">Read The Rules</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Technical%20Support.md#technical-support-challenge">Technical Support</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/That's%20Not%20My%20Base.md#thats-not-my-base-challenge">That's Not My Base</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Twine.md#twine-challenge">Twine</a> </br>  
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Uriel.md#uriel-challenge">Uriel</a> </br>
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/EICAR.md">EICAR</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/QRRRRRRRR.md">QRRRRRRRR</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Read the Rules.md">Read The Rules</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Technical Support.md">Technical Support</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/That's Not My Base.md">That's Not My Base</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Twine.md">Twine</a> </br>  
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Uriel.md">Uriel</a> </br>
   - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Web">Web</a> </br>
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Web/All%20About%20Robots.md#all-about-robots-challenge">All About Robots</a> </br>
 
