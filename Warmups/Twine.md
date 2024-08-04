@@ -46,7 +46,3 @@ Flag found:
 flag{4ac54e3ba5f8f09049f3ad62403abb25}
 ```
 
-
-<p align="center">Also me while doing this challenge:</p>
-<p align="center">
-  <img src="https://imgur.com/AapH5eM.png" alt="kms" width="500" height="300"/>
