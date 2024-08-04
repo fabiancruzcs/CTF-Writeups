@@ -6,7 +6,7 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
 - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024">NahamCon CTF 2024</a> </br>
 
   - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024/Warmups">Warmups</a> </br> 
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Copypasta.md#copypasta-challenge">Copypasta</a> </br> 
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Copypasta.md">Copypasta</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/EICAR.md#eicar-challenge">EICAR</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/QRRRRRRRR.md#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Read%20the%20Rules.md#read-the-rules-challenge">Read The Rules</a> </br>  
