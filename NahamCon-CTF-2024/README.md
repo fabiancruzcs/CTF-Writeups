@@ -5,7 +5,7 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
 ### Contents
 - <a href="https://github.com/fabiancruzcs/NahamConCTF2024?tab=readme-ov-file#%EF%B8%8F-nahamcon-ctf-2024---netrunners-team">NahamCon CTF 2024</a> </br>
 
-  - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/tree/main/Warmups">Warmups</a> </br> 
+  - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024/Warmups">Warmups</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/Copypasta.md#copypasta-challenge">Copypasta</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/EICAR.md#eicar-challenge">EICAR</a> </br> 
     - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Warmups/QRRRRRRRR.md#qrrrrrrrr-challenge">QRRRRRRRR</a> </br>  
