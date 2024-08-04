@@ -15,7 +15,7 @@ This repository contains my solutions to the challenges from the NahamCon CTF 20
     - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Twine.md">Twine</a> </br>  
     - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Warmups/Uriel.md">Uriel</a> </br>
   - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024/Web">Web</a> </br>
-    - <a href="https://github.com/fabiancruzcs/NahamConCTF2024/blob/main/Web/All%20About%20Robots.md#all-about-robots-challenge">All About Robots</a> </br>
+    - <a href="https://github.com/fabiancruzcs/CTF-Writeups/blob/main/NahamCon-CTF-2024/Web/All%20About%20Robots.md">All About Robots</a> </br>
 
 
 <h3>Tools and Utilities Used:</h3>
