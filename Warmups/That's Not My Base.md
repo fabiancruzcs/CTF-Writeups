@@ -6,7 +6,7 @@
 ### Thought Process:
 The text from the CTF prompt encourages you to search for an open-source tool to find the right base.
 
-I used `CyberChef`, which provides various decoding techniques. After trying several methods, I discovered that the text was encoded in Base92.
+I used `CyberChef`, which provides various decoding techniques. After trying multiple bases, I discovered that the text was encoded in Base92.
 
 <p align="center">CyberChef Tool:</p>
 <p align="center">
