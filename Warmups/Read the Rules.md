@@ -11,7 +11,7 @@ I started by reviewing the CTF event rules, where the flag format was specified 
   <img src="https://imgur.com/KoBuCzb.png" alt="Read The Rules" width="600" height="200"/>
 </p>
 
-While there, I did a quick inspection of the HTML source code pressing 'Ctrl + U'.
+While there, I did a quick inspection of the HTML source code.
 
 <p align="center">HTML source code:</p>
 <p align="center">
