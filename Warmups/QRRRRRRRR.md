@@ -37,7 +37,7 @@ GitHub repository:
 https://github.com/OUDON/rmqrcode-python
 ```
 
-Scanned the code using the QRQR app and got the flag: 
+Scanned it using the QRQR app and got the flag: 
 
 ```
 flag{a44557e380e3baae9c21c738664c6142}
