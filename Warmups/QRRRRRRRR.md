@@ -30,14 +30,14 @@ During my research, I discovered that rectangular QR codes are known as Data Mat
   <img src="https://imgur.com/pThspuD.png" alt="QR" width="600" height="100"/>
 </p>
 
-I struggled to find a way to scan it. I searched extensively online, but I couldn't find a solution. Eventually, I discovered a GitHub repository that mentioned using the `QRQR app` from the App Store for reading the code.
+I searched extensively online for a possible solution and came across a GitHub repository that mentioned using the `QRQR app` from the App Store to read the code.
 
 GitHub repository:
 ```
 https://github.com/OUDON/rmqrcode-python
 ```
 
-I scanned the code using the QRQR app and got the flag: 
+Scanned the code using the QRQR app and got the flag: 
 
 ```
 flag{a44557e380e3baae9c21c738664c6142}
