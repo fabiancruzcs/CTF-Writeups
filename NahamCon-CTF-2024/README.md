@@ -1,6 +1,6 @@
 # NahamCon CTF 2024 
 
-This repository contains my solutions to the challenges from the NahamCon CTF 2024. Each challenge is documented with the steps I took to solve it, including code snippets and screenshots where applicable.
+This section contains my solutions to the challenges from the NahamCon CTF 2024. Each challenge is documented with the steps I took to solve it, including code snippets and screenshots where applicable.
 
 ### Contents
 - <a href="https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024">NahamCon CTF 2024</a> </br>
